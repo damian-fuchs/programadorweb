@@ -1,2 +1,5 @@
 banana
 manzana
+naranja
+palta
+oregano
